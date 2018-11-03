@@ -1,0 +1,3171 @@
+Team Name:ateam
+Member 1 :Prabh Simran Singh Baweja:prabh.baweja@gmail.com
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Calling init package
+Extending heap by 262144
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 8
+Block allocation : 1
+
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 2040
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 258056
+Block allocation : 0
+
+Free list check 
+Free block size 258056
+
+Free call for pointer of size: 2048
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 260104
+Block allocation : 0
+
+Free list check 
+Free block size 260104
+
+Malloc call of size: 48
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 4080
+Coalescing
+Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 260048
+Block allocation : 0
+
+Free list check 
+Free block size 260048
+
+Malloc call of size: 4072
+Deleting from free list
+Deleting case 4
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 1
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 255968
+
+Free call for pointer of size: 2048
+Coalescing
+Case 1
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2048
+Block allocation : 0
+
+Block Size: 56
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2048
+
+Free block size 255968
+
+Free call for pointer of size: 56
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 2
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 255968
+Block allocation : 0
+
+Free list check 
+Free block size 2104
+
+Free block size 255968
+
+Malloc call of size: 4072
+Deleting from free list
+Delete Case 3
+Heap Consistency Check
+Heap size: 262168
+Block Size: 2104
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 251888
+
+Free block size 2104
+
+Free call for pointer of size: 4080
+Coalescing
+Case 3
+Deleting from free list
+Delete Case 3
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 6184
+Block allocation : 0
+
+Block Size: 4080
+Block allocation : 1
+
+Block Size: 251888
+Block allocation : 0
+
+Free list check 
+Free block size 6184
+
+Free block size 251888
+
+Free call for pointer of size: 4080
+Coalescing
+Case 4
+Deleting from free list
+Delete Case 2
+Deleting from free list
+Deleting case 4
+Yahan se to bahar aa gaya 
+Heap Consistency Check
+Heap size: 262168
+Block Size: 262152
+Block allocation : 0
+
+Free list check 
+Free block size 262152
+
+Perf index = 2 (util) + 9 (thru) = 11/100
